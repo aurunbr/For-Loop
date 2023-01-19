@@ -1,0 +1,7 @@
+palavra = fantastico
+  
+for spaco in palavra:
+  Print(spaco, end = '')
+  
+Ex:
+    Print(f' {spaco}', end = '')
