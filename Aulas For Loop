@@ -1,0 +1,14 @@
+Compra_Confirmada = True
+Dados_Compra = 'Compra no valor R$ 12,50 e entrega confirmada'
+
+if Compra_Confiramda:
+  Print(Dados_Compra)
+  Print('Detalhes enviados para seu e-mail')
+ 
+For enviar in range (3)
+if Compra_Confirmada:
+  Print(Dados_Compra)))
+  Print('Detalhes enviados para seu e-mail')
+Break
+Else:
+  Print('Falha na Compra')
